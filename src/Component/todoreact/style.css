@@ -1,0 +1,109 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-div {
+  background-color: rgb(54, 142, 147);
+  height: 90vh;
+  width: 95vh;
+}
+
+body {
+  height: 100vh;
+  border: 5px dashed rgb(10, 200, 190);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: rgb(27, 211, 55);
+}
+
+:root {
+  height: 50vh;
+}
+
+html {
+  height: 100%;
+}
+
+img {
+  border-radius: 10%;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 200px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.showItems {
+  align-items: center;
+}
+
+figcaption {
+  text-align: center;
+}
+
+/* .addItems {
+  display: flex;
+  margin-left: 90px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  box-shadow: blue;
+} */
+
+#combobox {
+  margin: 0;
+  padding: 0;
+}
+
+#combobox input {
+  height: 30px;
+  /* line-height: 20px; */
+  margin: 0;
+  padding: 1;
+  vertical-align: top;
+}
+
+#toggle {
+  width: 20px;
+  height: 24px;
+  margin-left: -20px;
+  display: inline-block;
+  cursor: pointer;
+  background-color: aliceblue;
+}
+
+/* #toggle {
+  position: absolute;
+  padding-left: 395px;
+  margin-top: 8px;
+} */
+
+div {
+  text-align: center;
+}
+
+.eachItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  border: 1px solid rgb(81, 0, 255);
+  margin-left: 75px;
+  margin-right: 37px;
+}
+
+#ck {
+  font-size: 15px;
+  border-radius: 8px;
+  border: 2px solid red;
+  margin-top: 15px;
+}
+
+.todo-btn {
+  margin-left: 40px;
+}
