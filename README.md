@@ -1,3 +1,18 @@
+UI
+
+![image](https://github.com/Divyamogaveera/Todo-List/assets/85350201/3245d0fa-d6c5-43ef-98b3-33d9f2613ff7)
+
+after adding some todo work 
+
+![image](https://github.com/Divyamogaveera/Todo-List/assets/85350201/fd7bcbae-3a18-4a7d-9e0c-fc15c0500b42)
+
+editing 
+
+![image](https://github.com/Divyamogaveera/Todo-List/assets/85350201/777c35a2-54d4-4280-9269-2aa2e3ebae90)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
